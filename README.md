@@ -4,7 +4,7 @@ I'm fond of powershell and automation of all the tasks. I made a powershell's sc
 
 jedynluke@gmail.com 
 
-www.linkedin.com/in/lukeinIT
+www.linkedin.com/in/LukeInIT
 
 🏢 I'm currently working at MPK Wrocław
 
