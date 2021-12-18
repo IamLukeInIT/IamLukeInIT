@@ -14,3 +14,5 @@ I'm fond of powershell and automation of all the tasks. I made a powershell's sc
 
 ✔ Fun fact: I love Star Wars
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeJed&theme=blue-green)
