@@ -6,18 +6,6 @@ jedynluke@gmail.com
 
 www.linkedin.com/in/LukeInIT
 
-🏢 I'm currently working at MPK Wrocław
-
-💻 I use daily: Windows, CISCO, VMware 
-
-🛠 I work using: Powershell, CISCO ISE
-        
-⚙️ I also use and work: Linux, HTML&CSS     
-
-👨‍🏫 Learning all about: Python and Cybersecurity
-
-✔ Fun fact: I love Star Wars
-
 ######################################################################################################
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeJed&theme=blue-green)
