@@ -8,4 +8,4 @@ www.linkedin.com/in/LukeInIT
 
 ######################################################################################################
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLukeInIT&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLukeInIT&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
