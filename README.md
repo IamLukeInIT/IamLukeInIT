@@ -1,6 +1,6 @@
 Hello there 👋
 
-I'm fond of automation of all the tasks. I made a powershell's script with GUI to solve daily issues on end point stations. My scripts also configurate new PCs as required. For network automation I started learning Python.
+I am a network administrator for LAN, WLAN, VPN. I work on Cisco devices (L2 and L3 switches, routers, WLCs, APs and Firepower) using Cisco Prime, Cisco ISE, FMC and Zabbix. I am also familiar with Mikrotik and TP-Link devices. I use a Python library - Netmiko - for network automation. I am also responsible for VoIP deployment and monitoring.
 
 jedynluke@gmail.com 
 
